@@ -2,7 +2,7 @@
 
 ## Who are you?
 
-I'm skid9000, "skid" for short or Jarod IRL, i'm a system administrator student in France.
+I'm skid9000, "skid" for short or Jarod IRL, i'm a computer fleet manager and system administrator in France.
 
 I'm native in French, somehow fluent in english and can understand some words of German, but don't expect too much :)
 
@@ -14,7 +14,7 @@ I'm native in French, somehow fluent in english and can understand some words of
 
 ## What are you doing in your life?
 
-Like i said i'm a student, tho since i'm bored 99% of the time at school, i do sysadmin stuff for my own needs and for [Anjara's](https://anjara.eu) needs, for more info go [here](https://jg-skid.me).
+I do sysadmin stuff for my own needs and for [Anjara's](https://anjara.eu) needs, for more info go [here](https://jg-skid.me).
 
 Sometimes i develop weird tools for weird usages or just for fun.
 
