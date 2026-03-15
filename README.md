@@ -12,6 +12,10 @@ I'm native in French, somehow fluent in english and can understand some words of
 - [Bsky](https://bsky.app/profile/skid.gamindustri.fr)
 - Email: Use the form at the bottom of [this page](https://jarodg.fr).
 
+[Please, explicit exactly what you want to talk about in your first message.](https://nohello.net/)
+
+Otherwise, i'll have to consider your message as spam.
+
 ## What are you doing in your life?
 
 I do sysadmin stuff for my own needs and for [Anjara's](https://anjara.eu) needs, for more info go [here](https://jarodg.fr).
