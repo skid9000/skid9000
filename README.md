@@ -10,7 +10,7 @@ I'm native in French, somehow fluent in english and can understand some words of
 
 - [Telegram](https://t.me/skid9000) (prefered)
 - [Bsky](https://bsky.app/profile/skid.gamindustri.fr)
-- Email: Use the form at the bottom of [this page](https://jarodg.fr).
+- [Email](https://jarodg.fr)
 
 [Please, explicit exactly what you want to talk about in your first message.](https://nohello.net/)
 
